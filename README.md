@@ -24,288 +24,288 @@ Collection of resources used in prep for OSEP, including course material progres
 - [ ] Complete labs
 
 ## Syllabus
-- [x] 1. Evasion Techniques and Breaching Defenses: General Course Information
-  - [x] 1.1 About The PEN-300 Course
-  - [x] 1.2 Provided Material
-  - [x] 1.3 Overall Strategies for Approaching the Course
-  - [x] 1.4 About the PEN-300 VPN Lab
-  - [x] 1.5 About the OSEP Exam
-  - [x] 1.6 Wrapping Up
-- [x] 2. Operating System and Programming Theory
-  - [x] 2.1 Programming Theory
-    - [x] 2.1.1 Programming Language Level
-    - [x] 2.1.2 Programming Concepts
-  - [x] 2.2 Windows Concepts
-    - [x] 2.2.1 Windows on Windows
-    - [x] 2.2.2 Win32 APIs
-    - [x] 2.2.3 Windows Registry
-  - [x] 2.3 Wrapping Up
-- [x] 3. Client Side Execution With Office
-  - [x] 3.1 Will You Be My Dropper
-    - [x] 3.1.1 Staged vs. Non-Staged Payloads
-    - [x] 3.1.2 Building Our Droppers
-      - [x] 3.1.2.1 Exercise
-    - [x] 3.1.3 HTML Smuggling
-      - [x] 3.1.3.1 Exercises
-  - [x] 3.2 Phishing With Microsoft Office
-    - [x] 3.2.1 Installing Microsoft Office
-      - [x] 3.2.1.1 Exercise
-    - [x] 3.2.2 Introduction to VBA
-      - [x] 3.2.2.1 Exercises
-    - [x] 3.2.3 Let PowerShell Help Us
-      - [x] 3.2.3.1 Exercises
-  - [x] 3.3 Keeping Up Appearances
-    - [x] 3.3.1 Phishing PreTexting
-    - [x] 3.3.2 The Old Switcheroo
-      - [x] 3.3.2.1 Exercises
-  - [x] 3.4 Executing Shellcode in Word Memory
-    - [x] 3.4.1 Calling Win32 APIs from VBA
-      - [x] 3.4.1.1 Exercises
-    - [x] 3.4.2 VBA Shellcode Runner
-      - [x] 3.4.2.1 Exercise
-  - [x] 3.5 PowerShell Shellcode Runner
-    - [x] 3.5.1 Calling Win32 APIs from PowerShell
-      - [x] 3.5.1.1 Exercises
-    - [x] 3.5.2 Porting Shellcode Runner to PowerShell
-      - [x] 3.5.2.1 Exercises
-  - [x] 3.6 Keep That PowerShell in Memory
-    - [x] 3.6.1 Add-Type Compilation
-      - [x] 3.6.1.1 Exercises
-    - [x] 3.6.2 Leveraging UnsafeNativeMethods
-      - [x] 3.6.2.1 Exercises
-    - [x] 3.6.3 DelegateType Reflection
-      - [x] 3.6.3.1 Exercises
-    - [x] 3.6.4 Reflection Shellcode Runner in PowerShell
-      - [x] 3.6.4.1 Exercises
-  - [x] 3.7 Talking To The Proxy
-    - [x] 3.7.1 PowerShell Proxy-Aware Communication
-      - [x] 3.7.1.1 Exercises
-    - [x] 3.7.2 Fiddling With The User-Agent
-      - [x] 3.7.2.1 Exercises
-    - [x] 3.7.3 Give Me A SYSTEM Proxy
-      - [x] 3.7.3.1 Exercise
-  - [x] 3.8 Wrapping Up
-- [x] 4. Client Side Code Execution With Windows Script Host
-  - [x] 4.1 Creating a Basic Dropper in Jscript
-    - [x] 4.1.1 Execution of Jscript on Windows
-      - [x] 4.1.1.1 Exercises
-    - [x] 4.1.2 Jscript Meterpreter Dropper
-      - [x] 4.1.2.1 Exercises
-  - [x] 4.2 Jscript and C#
-    - [x] 4.2.1 Introduction to Visual Studio
-      - [x] 4.2.1.1 Exercises
-    - [x] 4.2.2 DotNetToJscript
-      - [x] 4.2.2.1 Exercises
-    - [x] 4.2.3 Win32 API Calls From C#
-      - [x] 4.2.3.1 Exercise
-    - [x] 4.2.4 Shellcode Runner in C#
-      - [x] 4.2.4.1 Exercise
-    - [x] 4.2.5 Jscript Shellcode Runner
-      - [x] 4.2.5.1 Exercises
+- [ ] 1. Evasion Techniques and Breaching Defenses: General Course Information
+  - [ ] 1.1 About The PEN-300 Course
+  - [ ] 1.2 Provided Material
+  - [ ] 1.3 Overall Strategies for Approaching the Course
+  - [ ] 1.4 About the PEN-300 VPN Lab
+  - [ ] 1.5 About the OSEP Exam
+  - [ ] 1.6 Wrapping Up
+- [ ] 2. Operating System and Programming Theory
+  - [ ] 2.1 Programming Theory
+    - [ ] 2.1.1 Programming Language Level
+    - [ ] 2.1.2 Programming Concepts
+  - [ ] 2.2 Windows Concepts
+    - [ ] 2.2.1 Windows on Windows
+    - [ ] 2.2.2 Win32 APIs
+    - [ ] 2.2.3 Windows Registry
+  - [ ] 2.3 Wrapping Up
+- [ ] 3. Client Side Execution With Office
+  - [ ] 3.1 Will You Be My Dropper
+    - [ ] 3.1.1 Staged vs. Non-Staged Payloads
+    - [ ] 3.1.2 Building Our Droppers
+      - [ ] 3.1.2.1 Exercise
+    - [ ] 3.1.3 HTML Smuggling
+      - [ ] 3.1.3.1 Exercises
+  - [ ] 3.2 Phishing With Microsoft Office
+    - [ ] 3.2.1 Installing Microsoft Office
+      - [ ] 3.2.1.1 Exercise
+    - [ ] 3.2.2 Introduction to VBA
+      - [ ] 3.2.2.1 Exercises
+    - [ ] 3.2.3 Let PowerShell Help Us
+      - [ ] 3.2.3.1 Exercises
+  - [ ] 3.3 Keeping Up Appearances
+    - [ ] 3.3.1 Phishing PreTexting
+    - [ ] 3.3.2 The Old Switcheroo
+      - [ ] 3.3.2.1 Exercises
+  - [ ] 3.4 Executing Shellcode in Word Memory
+    - [ ] 3.4.1 Calling Win32 APIs from VBA
+      - [ ] 3.4.1.1 Exercises
+    - [ ] 3.4.2 VBA Shellcode Runner
+      - [ ] 3.4.2.1 Exercise
+  - [ ] 3.5 PowerShell Shellcode Runner
+    - [ ] 3.5.1 Calling Win32 APIs from PowerShell
+      - [ ] 3.5.1.1 Exercises
+    - [ ] 3.5.2 Porting Shellcode Runner to PowerShell
+      - [ ] 3.5.2.1 Exercises
+  - [ ] 3.6 Keep That PowerShell in Memory
+    - [ ] 3.6.1 Add-Type Compilation
+      - [ ] 3.6.1.1 Exercises
+    - [ ] 3.6.2 Leveraging UnsafeNativeMethods
+      - [ ] 3.6.2.1 Exercises
+    - [ ] 3.6.3 DelegateType Reflection
+      - [ ] 3.6.3.1 Exercises
+    - [ ] 3.6.4 Reflection Shellcode Runner in PowerShell
+      - [ ] 3.6.4.1 Exercises
+  - [ ] 3.7 Talking To The Proxy
+    - [ ] 3.7.1 PowerShell Proxy-Aware Communication
+      - [ ] 3.7.1.1 Exercises
+    - [ ] 3.7.2 Fiddling With The User-Agent
+      - [ ] 3.7.2.1 Exercises
+    - [ ] 3.7.3 Give Me A SYSTEM Proxy
+      - [ ] 3.7.3.1 Exercise
+  - [ ] 3.8 Wrapping Up
+- [ ] 4. Client Side Code Execution With Windows Script Host
+  - [ ] 4.1 Creating a Basic Dropper in Jscript
+    - [ ] 4.1.1 Execution of Jscript on Windows
+      - [ ] 4.1.1.1 Exercises
+    - [ ] 4.1.2 Jscript Meterpreter Dropper
+      - [ ] 4.1.2.1 Exercises
+  - [ ] 4.2 Jscript and C#
+    - [ ] 4.2.1 Introduction to Visual Studio
+      - [ ] 4.2.1.1 Exercises
+    - [ ] 4.2.2 DotNetToJscript
+      - [ ] 4.2.2.1 Exercises
+    - [ ] 4.2.3 Win32 API Calls From C#
+      - [ ] 4.2.3.1 Exercise
+    - [ ] 4.2.4 Shellcode Runner in C#
+      - [ ] 4.2.4.1 Exercise
+    - [ ] 4.2.5 Jscript Shellcode Runner
+      - [ ] 4.2.5.1 Exercises
       - [ ] 4.2.5.2 Extra Mile
-    - [x] 4.2.6 SharpShooter
-      - [x] 4.2.6.1 Exercises
-  - [x] 4.3 In-memory PowerShell Revisited
-    - [x] 4.3.1 Reflective Load
-      - [x] 4.3.1.1 Exercises
-  - [x] 4.4 Wrapping Up
-- [x] 5. Process Injection and Migration
-  - [x] 5.1 Finding a Home for Our Shellcode
-    - [x] 5.1.1 Process Injection and Migration Theory
-    - [x] 5.1.2 Process Injection in C#
-      - [x] 5.1.2.1 Exercises
+    - [ ] 4.2.6 SharpShooter
+      - [ ] 4.2.6.1 Exercises
+  - [ ] 4.3 In-memory PowerShell Revisited
+    - [ ] 4.3.1 Reflective Load
+      - [ ] 4.3.1.1 Exercises
+  - [ ] 4.4 Wrapping Up
+- [ ] 5. Process Injection and Migration
+  - [ ] 5.1 Finding a Home for Our Shellcode
+    - [ ] 5.1.1 Process Injection and Migration Theory
+    - [ ] 5.1.2 Process Injection in C#
+      - [ ] 5.1.2.1 Exercises
       - [ ] 5.1.2.2 Extra Mile
-    - [x] 5.2 DLL Injection
-      - [x] 5.2.1 DLL Injection Theory
-      - [x] 5.2.2 DLL Injection with C#
-        - [x] 5.2.2.1 Exercise
-    - [x] 5.3 Reflective DLL Injection
-      - [x] 5.3.1 Reflective DLL Injection Theory
-      - [x] 5.3.2 Reflective DLL Injection in PowerShell
-        - [x] 5.3.2.1 Exercises
-    - [x] 5.4 Process Hollowing
-      - [x] 5.4.1 Process Hollowing Theory
-      - [x] 5.4.2 Process Hollowing in C#
-        - [x] 5.4.2.1 Exercises
-    - [x] 5.5 Wrapping Up
-  - [x] 6. Introduction to Antivirus Evasion
-    - [x] 6.1 Antivirus Software Overview
-    - [x] 6.2 Simulating the Target Environment
-    - [x] 6.3 Locating Signatures in Files
-        - [x] 6.3.1.1 Exercise
-    - [x] 6.4 Bypassing Antivirus with Metasploit
-      - [x] 6.4.1 Metasploit Encoders
-        - [x] 6.4.1.1 Exercise
-      - [x] 6.4.2 Metasploit Encryptors
-        - [x] 6.4.2.1 Exercises
-    - [x] 6.5 Bypassing Antivirus with C#
-      - [x] 6.5.1 C# Shellcode Runner vs Antivirus
-        - [x] 6.5.1.1 Exercises
-      - [x] 6.5.2 Encrypting the C# Shellcode Runner
-        - [x] 6.5.2.1 Exercises
-    - [x] 6.6 Messing with Our Behavior
-      - [x] 6.6.1 Simple Sleep Timers
-        - [x] 6.6.1.1 Exercises
-      - [x] 6.6.2 Non-emulated APIs
-        - [x] 6.6.2.1 Exercises
-    - [x] 6.7 Office Please Bypass Antivirus
-      - [x] 6.7.1 Bypassing Antivirus in VBA
-        - [x] 6.7.1.1 Exercises
-      - [x] 6.7.2 Stomping On Microsoft Word
-        - [x] 6.7.2.1 Exercises
-    - [x] 6.8 Hiding PowerShell Inside VBA
-      - [x] 6.8.1 Detection of PowerShell Shellcode Runner
-        - [x] 6.8.1.1 Exercises
-      - [x] 6.8.2 Dechaining with WMI
-        - [x] 6.8.2.1 Exercises
-      - [x] 6.8.3 Obfuscating VBA
-        - [x] 6.8.3.1 Exercises
+    - [ ] 5.2 DLL Injection
+      - [ ] 5.2.1 DLL Injection Theory
+      - [ ] 5.2.2 DLL Injection with C#
+        - [ ] 5.2.2.1 Exercise
+    - [ ] 5.3 Reflective DLL Injection
+      - [ ] 5.3.1 Reflective DLL Injection Theory
+      - [ ] 5.3.2 Reflective DLL Injection in PowerShell
+        - [ ] 5.3.2.1 Exercises
+    - [ ] 5.4 Process Hollowing
+      - [ ] 5.4.1 Process Hollowing Theory
+      - [ ] 5.4.2 Process Hollowing in C#
+        - [ ] 5.4.2.1 Exercises
+    - [ ] 5.5 Wrapping Up
+  - [ ] 6. Introduction to Antivirus Evasion
+    - [ ] 6.1 Antivirus Software Overview
+    - [ ] 6.2 Simulating the Target Environment
+    - [ ] 6.3 Locating Signatures in Files
+        - [ ] 6.3.1.1 Exercise
+    - [ ] 6.4 Bypassing Antivirus with Metasploit
+      - [ ] 6.4.1 Metasploit Encoders
+        - [ ] 6.4.1.1 Exercise
+      - [ ] 6.4.2 Metasploit Encryptors
+        - [ ] 6.4.2.1 Exercises
+    - [ ] 6.5 Bypassing Antivirus with C#
+      - [ ] 6.5.1 C# Shellcode Runner vs Antivirus
+        - [ ] 6.5.1.1 Exercises
+      - [ ] 6.5.2 Encrypting the C# Shellcode Runner
+        - [ ] 6.5.2.1 Exercises
+    - [ ] 6.6 Messing with Our Behavior
+      - [ ] 6.6.1 Simple Sleep Timers
+        - [ ] 6.6.1.1 Exercises
+      - [ ] 6.6.2 Non-emulated APIs
+        - [ ] 6.6.2.1 Exercises
+    - [ ] 6.7 Office Please Bypass Antivirus
+      - [ ] 6.7.1 Bypassing Antivirus in VBA
+        - [ ] 6.7.1.1 Exercises
+      - [ ] 6.7.2 Stomping On Microsoft Word
+        - [ ] 6.7.2.1 Exercises
+    - [ ] 6.8 Hiding PowerShell Inside VBA
+      - [ ] 6.8.1 Detection of PowerShell Shellcode Runner
+        - [ ] 6.8.1.1 Exercises
+      - [ ] 6.8.2 Dechaining with WMI
+        - [ ] 6.8.2.1 Exercises
+      - [ ] 6.8.3 Obfuscating VBA
+        - [ ] 6.8.3.1 Exercises
         - [ ] 6.8.3.2 Extra Mile Exercise
-    - [x] 6.9 Wrapping Up
-  - [x] 7. Advanced Antivirus Evasion
-    - [x] 7.1 Intel Architecture and Windows 10
-      - [x] 7.1.1 WinDbg Introduction
-        - [x] 7.1.1.1 Exercises
-    - [x] 7.2 Antimalware Scan Interface
-      - [x] 7.2.1 Understanding AMSI
-      - [x] 7.2.2 Hooking with Frida
-        - [x] 7.2.2.1 Exercises
-    - [x] 7.3 Bypassing AMSI With Reflection in PowerShell
-      - [x] 7.3.1 What Context Mom?
-        - [x] 7.3.1.1 Exercises
-      - [x] 7.3.2 Attacking Initialization
-        - [x] 7.3.2.1 Exercise
-    - [x] 7.4 Wrecking AMSI in PowerShell
-      - [x] 7.4.1 Understanding the Assembly Flow
-        - [x] 7.4.1.1 Exercises
-      - [x] 7.4.2 Patching the Internals
-        - [x] 7.4.2.1 Exercises
-        - [x] 7.4.2.2 Extra Mile Exercise
-    - [x] 7.5 UAC Bypass vs Microsoft Defender
-      - [x] 7.5.1 FodHelper UAC Bypass
-        - [x] 7.5.1.1 Exercises
-      - [x] 7.5.2 Improving Fodhelper
-        - [x] 7.5.2.1 Exercises
-    - [x] 7.6 Bypassing AMSI in JScript
-      - [x] 7.6.1 Detecting the AMSI API Flow
-        - [x] 7.6.1.1 Exercise
-      - [x] 7.6.2 Is That Your Registry Key?
-        - [x] 7.6.2.1 Exercises
-      - [x] 7.6.3 I Am My Own Executable
-        - [x] 7.6.3.1 Exercises
-    - [x] 7.7 Wrapping Up
+    - [ ] 6.9 Wrapping Up
+  - [ ] 7. Advanced Antivirus Evasion
+    - [ ] 7.1 Intel Architecture and Windows 10
+      - [ ] 7.1.1 WinDbg Introduction
+        - [ ] 7.1.1.1 Exercises
+    - [ ] 7.2 Antimalware Scan Interface
+      - [ ] 7.2.1 Understanding AMSI
+      - [ ] 7.2.2 Hooking with Frida
+        - [ ] 7.2.2.1 Exercises
+    - [ ] 7.3 Bypassing AMSI With Reflection in PowerShell
+      - [ ] 7.3.1 What Context Mom?
+        - [ ] 7.3.1.1 Exercises
+      - [ ] 7.3.2 Attacking Initialization
+        - [ ] 7.3.2.1 Exercise
+    - [ ] 7.4 Wrecking AMSI in PowerShell
+      - [ ] 7.4.1 Understanding the Assembly Flow
+        - [ ] 7.4.1.1 Exercises
+      - [ ] 7.4.2 Patching the Internals
+        - [ ] 7.4.2.1 Exercises
+        - [ ] 7.4.2.2 Extra Mile Exercise
+    - [ ] 7.5 UAC Bypass vs Microsoft Defender
+      - [ ] 7.5.1 FodHelper UAC Bypass
+        - [ ] 7.5.1.1 Exercises
+      - [ ] 7.5.2 Improving Fodhelper
+        - [ ] 7.5.2.1 Exercises
+    - [ ] 7.6 Bypassing AMSI in JScript
+      - [ ] 7.6.1 Detecting the AMSI API Flow
+        - [ ] 7.6.1.1 Exercise
+      - [ ] 7.6.2 Is That Your Registry Key?
+        - [ ] 7.6.2.1 Exercises
+      - [ ] 7.6.3 I Am My Own Executable
+        - [ ] 7.6.3.1 Exercises
+    - [ ] 7.7 Wrapping Up
 - [ ] 8. Application Whitelisting
-  - [x] 8.1 Application Whitelisting Theory and Setup
-    - [x] 8.1.1 Application Whitelisting Theory
-    - [x] 8.1.2 AppLocker Setup and Rules
-      - [x] 8.1.2.1 Exercises
-  - [x] 8.2 Basic Bypasses
-    - [x] 8.2.1 Trusted Folders
-      - [x] 8.2.1.1 Exercises
-    - [x] 8.2.2 Bypass With DLLs
-      - [x] 8.2.2.1 Exercises
-      - [x] 8.2.2.2 Extra Mile
-    - [x] 8.2.3 Alternate Data Streams
-      - [x] 8.2.3.1 Exercises
-    - [x] 8.2.4 Third Party Execution
-      - [x] 8.2.4.1 Exercise
-  - [x] 8.3 Bypassing AppLocker with PowerShell
-    - [x] 8.3.1 PowerShell Constrained Language Mode
-      - [x] 8.3.1.1 Exercises
-    - [x] 8.3.2 Custom Runspaces
-      - [x] 8.3.2.1 Exercises
-    - [x] 8.3.3 PowerShell CLM Bypass
+  - [ ] 8.1 Application Whitelisting Theory and Setup
+    - [ ] 8.1.1 Application Whitelisting Theory
+    - [ ] 8.1.2 AppLocker Setup and Rules
+      - [ ] 8.1.2.1 Exercises
+  - [ ] 8.2 Basic Bypasses
+    - [ ] 8.2.1 Trusted Folders
+      - [ ] 8.2.1.1 Exercises
+    - [ ] 8.2.2 Bypass With DLLs
+      - [ ] 8.2.2.1 Exercises
+      - [ ] 8.2.2.2 Extra Mile
+    - [ ] 8.2.3 Alternate Data Streams
+      - [ ] 8.2.3.1 Exercises
+    - [ ] 8.2.4 Third Party Execution
+      - [ ] 8.2.4.1 Exercise
+  - [ ] 8.3 Bypassing AppLocker with PowerShell
+    - [ ] 8.3.1 PowerShell Constrained Language Mode
+      - [ ] 8.3.1.1 Exercises
+    - [ ] 8.3.2 Custom Runspaces
+      - [ ] 8.3.2.1 Exercises
+    - [ ] 8.3.3 PowerShell CLM Bypass
       - [ ] 8.3.3.1 Exercises
-    - [x] 8.3.4 Reflective Injection Returns
+    - [ ] 8.3.4 Reflective Injection Returns
       - [ ] 8.3.4.1 Exercise
-  - [x] 8.4 Bypassing AppLocker with C#
-    - [x] 8.4.1 Locating a Target
-    - [x] 8.4.2 Reverse Engineering for Load
+  - [ ] 8.4 Bypassing AppLocker with C#
+    - [ ] 8.4.1 Locating a Target
+    - [ ] 8.4.2 Reverse Engineering for Load
       - [ ] 8.4.2.1 Exercises
-    - [x] 8.4.3 Give Me Code Exec
+    - [ ] 8.4.3 Give Me Code Exec
       - [ ] 8.4.3.1 Exercise
-    - [x] 8.4.4 Invoking the Target Part 1
+    - [ ] 8.4.4 Invoking the Target Part 1
       - [ ] 8.4.4.1 Exercises
-    - [x] 8.4.5 Invoking the Target Part 2
+    - [ ] 8.4.5 Invoking the Target Part 2
       - [ ] 8.4.5.1 Exercises
       - [ ] 8.4.5.2 Extra Mile
-  - [x] 8.5 Bypassing AppLocker with JScript
-    - [x] 8.5.1 JScript and MSHTA
+  - [ ] 8.5 Bypassing AppLocker with JScript
+    - [ ] 8.5.1 JScript and MSHTA
       - [ ] 8.5.1.1 Exercises
-    - [x] 8.5.2 XSL Transform
+    - [ ] 8.5.2 XSL Transform
       - [ ] 8.5.2.1 Exercises
       - [ ] 8.5.2.2 Extra Mile
-  - [x] 8.6 Wrapping Up
-- [x] 9 Bypassing Network Filters
-  - [x] 9.1 DNS Filters
-    - [x] 9.1.1 DNS Filters
+  - [ ] 8.6 Wrapping Up
+- [ ] 9 Bypassing Network Filters
+  - [ ] 9.1 DNS Filters
+    - [ ] 9.1.1 DNS Filters
       - [ ] 9.1.1.1 Exercises
-    - [x] 9.1.2 Dealing with DNS Filters
+    - [ ] 9.1.2 Dealing with DNS Filters
       - [ ] 9.1.2.1 Exercise
-  - [x] 9.2 Web Proxies
-    - [x] 9.2.1 Bypassing Web Proxies
+  - [ ] 9.2 Web Proxies
+    - [ ] 9.2.1 Bypassing Web Proxies
       - [ ] 9.2.1.1 Exercises
-  - [x] 9.3 IDS and IPS Sensors
-    - [x] 9.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates
-      - [x] 9.3.1.1 Exercises
-  - [x] 9.4 Full Packet Capture Devices
-  - [x] 9.5 HTTPS Inspection
-  - [x] 9.6 Domain Fronting
-    - [x] 9.6.1 Domain Fronting with Azure CDN
+  - [ ] 9.3 IDS and IPS Sensors
+    - [ ] 9.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates
+      - [ ] 9.3.1.1 Exercises
+  - [ ] 9.4 Full Packet Capture Devices
+  - [ ] 9.5 HTTPS Inspection
+  - [ ] 9.6 Domain Fronting
+    - [ ] 9.6.1 Domain Fronting with Azure CDN
       - [ ] 9.6.1.1 Exercise
       - [ ] 9.6.1.2 Extra Mile
-    - [x] 9.6.2 Domain Fronting in the Lab
+    - [ ] 9.6.2 Domain Fronting in the Lab
       - [ ] 9.6.2.1 Exercises
       - [ ] 9.6.2.2 Extra Mile
-  - [x] 9.7 DNS Tunneling
-    - [x] 9.7.1 How DNS Tunneling Works
-    - [x] 9.7.2 DNS Tunneling with dnscat2
+  - [ ] 9.7 DNS Tunneling
+    - [ ] 9.7.1 How DNS Tunneling Works
+    - [ ] 9.7.2 DNS Tunneling with dnscat2
       - [ ] 9.7.2.1 Exercises
-  - [x] 9.8 Wrapping Up
-- [x] 10 Linux Post-Exploitation
-  - [x] 10.1 User Configuration Files
-    - [x] 10.1.1 VIM Config Simple Backdoor
-      - [x] 10.1.1.1 Exercises
+  - [ ] 9.8 Wrapping Up
+- [ ] 10 Linux Post-Exploitation
+  - [ ] 10.1 User Configuration Files
+    - [ ] 10.1.1 VIM Config Simple Backdoor
+      - [ ] 10.1.1.1 Exercises
       - [ ] 10.1.1.2 Extra Mile
-    - [x] 10.1.2 VIM Config Simple Keylogger
+    - [ ] 10.1.2 VIM Config Simple Keylogger
       - [ ] 10.1.2.1 Exercises
-  - [x] 10.2 Bypassing AV
-    - [x] 10.2.1 Kaspersky Endpoint Security
-    - [x] 10.2.2 Antiscan.me
-      - [x] 10.2.2.1 Exercises
+  - [ ] 10.2 Bypassing AV
+    - [ ] 10.2.1 Kaspersky Endpoint Security
+    - [ ] 10.2.2 Antiscan.me
+      - [ ] 10.2.2.1 Exercises
       - [ ] 10.2.2.2 Extra Mile
-  - [x] 10.3 Shared Libraries
-    - [x] 10.3.1 How Shared Libraries Work on Linux
-    - [x] 10.3.2 Shared Library Hijacking via LD_LIBRARY_PATH
-      - [x] 10.3.2.1 Exercises
+  - [ ] 10.3 Shared Libraries
+    - [ ] 10.3.1 How Shared Libraries Work on Linux
+    - [ ] 10.3.2 Shared Library Hijacking via LD_LIBRARY_PATH
+      - [ ] 10.3.2.1 Exercises
       - [ ] 10.3.2.2 Extra Mile
-    - [x] 10.3.3 Exploitation via LD_PRELOAD
+    - [ ] 10.3.3 Exploitation via LD_PRELOAD
       - [ ] 10.3.3.1 Exercises
-  - [x] 10.4 Wrapping Up
-- [x] 11 Kiosk Breakouts
-  - [x] 11.1 Kiosk Enumeration
-    - [x] 11.1.1 Kiosk Browser Enumeration
+  - [ ] 10.4 Wrapping Up
+- [ ] 11 Kiosk Breakouts
+  - [ ] 11.1 Kiosk Enumeration
+    - [ ] 11.1.1 Kiosk Browser Enumeration
       - [ ] 11.1.1.1 Exercises
-  - [x] 11.2 Command Execution
-    - [x] 11.2.1 Exploring the Filesystem
-    - [x] 11.2.2 Leveraging Firefox Profiles
-    - [x] 11.2.3 Enumerating System Information
-    - [x] 11.2.4 Scratching the Surface
+  - [ ] 11.2 Command Execution
+    - [ ] 11.2.1 Exploring the Filesystem
+    - [ ] 11.2.2 Leveraging Firefox Profiles
+    - [ ] 11.2.3 Enumerating System Information
+    - [ ] 11.2.4 Scratching the Surface
       - [ ] 11.2.4.1 Exercises
       - [ ] 11.2.4.2 Extra Mile
-  - [x] 11.3 Post-Exploitation
-    - [x] 11.3.1 Simulating an Interactive Shell
+  - [ ] 11.3 Post-Exploitation
+    - [ ] 11.3.1 Simulating an Interactive Shell
       - [ ] 11.3.1.1 Exercises
       - [ ] 11.3.1.2 Extra Mile
-  - [x] 11.4 Privilege Escalation
-    - [x] 11.4.1 Thinking Outside the Box
-    - [x] 11.4.2 Root Shell at the Top of the Hour
-    - [x] 11.4.3 Getting Root Terminal Access
+  - [ ] 11.4 Privilege Escalation
+    - [ ] 11.4.1 Thinking Outside the Box
+    - [ ] 11.4.2 Root Shell at the Top of the Hour
+    - [ ] 11.4.3 Getting Root Terminal Access
       - [ ] 11.4.3.1 Exercises
-  - [x] 11.5 Windows Kiosk Breakout Techniques
-    - [x] 11.5.1 Windows Kiosk Breakout Techniques
+  - [ ] 11.5 Windows Kiosk Breakout Techniques
+    - [ ] 11.5.1 Windows Kiosk Breakout Techniques
       - [ ] 11.5.1.1 Exercises
-  - [x] 11.6 Wrapping Up
+  - [ ] 11.6 Wrapping Up
 - [ ] 12 Windows Credentials
   - [ ] 12.1 Local Windows Credentials
     - [ ] 12.1.1 SAM Database
